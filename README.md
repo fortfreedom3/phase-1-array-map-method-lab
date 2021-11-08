@@ -185,7 +185,6 @@ const tutorials = [
   'what is JSONP?'
 ];
 ```
-
 **NOTE:** This lab is challenging! You will need to iterate through the
 `tutorials` array, modifying the name of each tutorial. To do this, you will
 **also** need to access and modify each individual word.
